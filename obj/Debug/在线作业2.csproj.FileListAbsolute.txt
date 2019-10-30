@@ -1,0 +1,6 @@
+E:\VisualStudio-workspace\c#\在线作业2\在线作业2\obj\Debug\在线作业2.csprojAssemblyReference.cache
+E:\VisualStudio-workspace\c#\在线作业2\在线作业2\bin\Debug\在线作业2.exe.config
+E:\VisualStudio-workspace\c#\在线作业2\在线作业2\bin\Debug\在线作业2.exe
+E:\VisualStudio-workspace\c#\在线作业2\在线作业2\bin\Debug\在线作业2.pdb
+E:\VisualStudio-workspace\c#\在线作业2\在线作业2\obj\Debug\在线作业2.exe
+E:\VisualStudio-workspace\c#\在线作业2\在线作业2\obj\Debug\在线作业2.pdb
